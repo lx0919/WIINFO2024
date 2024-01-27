@@ -1,0 +1,87 @@
+.chat-child {
+  position: absolute;
+  top: 540px;
+  left: 37px;
+  border-radius: 50%;
+  background-color: var(--color-silver-100);
+  width: 35.2px;
+  height: 35.2px;
+}
+.chat-inner,
+.chat-item {
+  position: absolute;
+  top: 543px;
+  left: 87px;
+  background-color: var(--color-gainsboro);
+  width: 228px;
+  height: 66px;
+}
+.chat-inner {
+  top: 364px;
+  left: 349.4px;
+  border-radius: 50%;
+  background-color: var(--color-silver-100);
+  width: 35.2px;
+  height: 35.2px;
+}
+.chat-child1,
+.chat-child2 {
+  position: absolute;
+  top: 369px;
+  left: 115px;
+  background-color: var(--color-gainsboro);
+  width: 222px;
+  height: 118px;
+}
+.chat-child2 {
+  top: 182px;
+  left: 37px;
+  border-radius: 50%;
+  background-color: var(--color-silver-100);
+  width: 35.2px;
+  height: 35.2px;
+}
+.chat-child3 {
+  position: absolute;
+  top: 183px;
+  left: 87px;
+  background-color: var(--color-gainsboro);
+  width: 228px;
+  height: 131px;
+}
+.friend {
+  position: absolute;
+  top: 50px;
+  left: 143px;
+  display: inline-block;
+  width: 88px;
+  height: 27px;
+}
+.chat-child4 {
+  position: absolute;
+  top: 44px;
+  left: 84px;
+  border-radius: 50%;
+  border: 1px solid var(--color-black1);
+  box-sizing: border-box;
+  width: 40px;
+  height: 40px;
+}
+.component-39-icon1 {
+  position: absolute;
+  top: 860px;
+  left: 0;
+  width: 430px;
+  height: 72px;
+}
+.chat {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 932px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-2xl);
+  color: var(--color-black1);
+  font-family: var(--font-inter);
+}
