@@ -1,3 +1,44 @@
+.property-1default-item {
+  position: absolute;
+  height: 72.93%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 27.07%;
+  left: 0;
+  border-radius: var(--br-20xl);
+  background-color: var(--color-darkkhaki);
+}
+.vector-icon4 {
+  position: absolute;
+  height: 10.9%;
+  width: 7.62%;
+  top: 46.62%;
+  right: 73.21%;
+  bottom: 42.48%;
+  left: 19.17%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.component-431,
+.property-1default1 {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  width: 433px;
+  height: 266px;
+}
+.component-431 {
+  top: -103px;
+  left: -22px;
+  border-radius: var(--br-8xs);
+  border: 1px dashed var(--color-blueviolet);
+  box-sizing: border-box;
+  width: 473px;
+  height: 319px;
+  overflow: hidden;
+}
 .ai-assistant {
   position: absolute;
   top: 43px;
@@ -5,16 +46,6 @@
   display: inline-block;
   width: 143px;
   height: 27px;
-}
-.chatgpt-help-child {
-  position: absolute;
-  top: 37px;
-  left: 77px;
-  border-radius: 50%;
-  border: 1px solid var(--color-black);
-  box-sizing: border-box;
-  width: 40px;
-  height: 40px;
 }
 .back-icon {
   position: absolute;
@@ -24,68 +55,46 @@
   height: 34px;
   object-fit: cover;
 }
-.chatgpt-help-item {
-  position: absolute;
-  top: 108.5px;
-  left: -0.5px;
-  border-top: 1px solid #bababa;
-  box-sizing: border-box;
-  width: 431px;
-  height: 1px;
-}
-.component-39-icon {
+.component-39-icon,
+.vector-icon5 {
   position: absolute;
   top: 860px;
   left: 0;
   width: 430px;
   height: 72px;
 }
-.chatgpt-help-inner {
-  position: absolute;
-  top: 721px;
-  left: 36px;
-  border-radius: 50%;
-  background-color: var(--color-silver-100);
-  width: 35.2px;
-  height: 35.2px;
+.vector-icon5 {
+  height: 3.11%;
+  width: 7.67%;
+  top: 24.89%;
+  right: 86.51%;
+  bottom: 72%;
+  left: 5.81%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
 }
-.chatgpt-help-child1 {
+.camera-icon,
+.microphone-icon,
+.picture-icon {
   position: absolute;
-  top: 722px;
-  left: 318px;
-  background-color: var(--color-gainsboro);
-  width: 228px;
-  height: 83px;
-  transform: rotate(180deg);
-  transform-origin: 0 0;
+  top: 877px;
+  left: 14px;
+  width: 22px;
+  height: 22px;
+  object-fit: cover;
 }
-.hi-how-can {
-  position: absolute;
-  top: 739px;
-  left: 114px;
-  display: inline-block;
-  width: 191px;
-  height: 50px;
+.camera-icon,
+.picture-icon {
+  top: 875px;
+  left: 349px;
+  width: 24px;
+  height: 24px;
 }
-.how-can-i {
-  position: absolute;
-  top: 884px;
-  left: 68px;
-  font-size: var(--bodytext-b2-regular-size);
-  line-height: 20px;
-  font-family: var(--caption-c2-regular);
-  display: flex;
-  align-items: center;
-  width: 247px;
-  height: 19px;
-}
-.chatgpt-help-child2 {
-  position: absolute;
-  top: 367px;
-  left: 63px;
-  background-color: var(--color-gainsboro);
-  width: 304px;
-  height: 58px;
+.camera-icon {
+  left: 391px;
+  width: 25px;
+  height: 25px;
 }
 .chatgpt-help {
   width: 100%;
@@ -95,6 +104,6 @@
   overflow: hidden;
   text-align: left;
   font-size: var(--font-size-2xl);
-  color: var(--color-black);
+  color: var(--color-black1);
   font-family: var(--font-inter);
 }

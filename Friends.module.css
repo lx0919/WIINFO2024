@@ -27,7 +27,7 @@
   top: 330px;
   left: 42px;
   border-radius: 50%;
-  border: 1px solid var(--color-black);
+  border: 1px solid var(--color-black1);
   box-sizing: border-box;
   width: 40px;
   height: 40px;
@@ -61,7 +61,7 @@
   top: 425px;
   left: 42px;
   border-radius: 50%;
-  border: 1px solid var(--color-black);
+  border: 1px solid var(--color-black1);
   box-sizing: border-box;
   width: 40px;
   height: 40px;
@@ -95,7 +95,7 @@
   top: 521px;
   left: 42px;
   border-radius: 50%;
-  border: 1px solid var(--color-black);
+  border: 1px solid var(--color-black1);
   box-sizing: border-box;
   width: 40px;
   height: 40px;
@@ -129,7 +129,7 @@
   top: 614px;
   left: 42px;
   border-radius: 50%;
-  border: 1px solid var(--color-black);
+  border: 1px solid var(--color-black1);
   box-sizing: border-box;
   width: 40px;
   height: 40px;
@@ -163,7 +163,7 @@
   top: 704px;
   left: 42px;
   border-radius: 50%;
-  border: 1px solid var(--color-black);
+  border: 1px solid var(--color-black1);
   box-sizing: border-box;
   width: 40px;
   height: 40px;
@@ -197,7 +197,7 @@
   top: 798px;
   left: 42px;
   border-radius: 50%;
-  border: 1px solid var(--color-black);
+  border: 1px solid var(--color-black1);
   box-sizing: border-box;
   width: 40px;
   height: 40px;
@@ -231,7 +231,7 @@
   top: 235px;
   left: 42px;
   border-radius: 50%;
-  border: 1px solid var(--color-black);
+  border: 1px solid var(--color-black1);
   box-sizing: border-box;
   width: 40px;
   height: 40px;
@@ -249,7 +249,7 @@
   position: absolute;
   top: 125px;
   left: 37px;
-  border-radius: 25px;
+  border-radius: var(--br-6xl);
   border: 1px solid #797979;
   box-sizing: border-box;
   width: 356px;
@@ -273,7 +273,7 @@
   width: 46px;
   height: 17px;
 }
-.icon-change-me10 {
+.icon-change-me15 {
   position: absolute;
   height: 42.86%;
   width: 50%;
@@ -285,7 +285,7 @@
   overflow: hidden;
   max-height: 100%;
 }
-.tab-label10 {
+.tab-label15 {
   position: absolute;
   height: 21.43%;
   top: 64.29%;
@@ -297,12 +297,12 @@
   justify-content: center;
   width: 48px;
 }
-.atombottomnavitem10 {
+.atombottomnavitem15 {
   width: 48px;
   position: relative;
   height: 56px;
 }
-.icon-change-me12 {
+.icon-change-me17 {
   position: absolute;
   height: 42.86%;
   width: 50%;
@@ -315,7 +315,7 @@
   max-height: 100%;
   display: none;
 }
-.tab-label12 {
+.tab-label17 {
   position: absolute;
   height: 21.43%;
   top: 60.71%;
@@ -327,7 +327,7 @@
   justify-content: center;
   width: 48px;
 }
-.atombottomnavitem-inner {
+.atombottomnavitem-child1 {
   position: absolute;
   height: 3.57%;
   width: 100%;
@@ -335,20 +335,20 @@
   right: 0;
   bottom: 0;
   left: 0;
-  background-color: var(--color-black);
+  background-color: var(--color-black1);
 }
-.atombottomnavitem12 {
+.atombottomnavitem17 {
   width: 48px;
   position: relative;
   height: 56px;
-  color: var(--color-black);
+  color: var(--color-black1);
 }
-.bottomnav2,
-.content2,
+.bottomnav3,
+.content3,
 .friends {
   background-color: var(--color-white1);
 }
-.content2 {
+.content3 {
   position: absolute;
   top: 0;
   left: 0;
@@ -361,11 +361,11 @@
   padding: var(--padding-9xs) var(--padding-base) 0;
   box-sizing: border-box;
 }
-.bottomnav2,
+.bottomnav3,
 .friends {
   overflow: hidden;
 }
-.bottomnav2 {
+.bottomnav3 {
   position: absolute;
   top: 857px;
   left: 0;
@@ -383,6 +383,6 @@
   cursor: pointer;
   text-align: left;
   font-size: var(--font-size-xs);
-  color: var(--color-black);
+  color: var(--color-black1);
   font-family: var(--font-inter);
 }

@@ -1,0 +1,13 @@
+.toddler {
+  width: 44px;
+  position: relative;
+  font-size: var(--caption-c2-regular-size);
+  text-decoration: underline;
+  letter-spacing: -0.02em;
+  font-family: var(--caption-c2-regular);
+  color: var(--color-black1);
+  text-align: left;
+  display: flex;
+  align-items: flex-end;
+  height: 13px;
+}

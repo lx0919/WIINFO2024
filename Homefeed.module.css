@@ -1,0 +1,335 @@
+.icon-change-me10 {
+  position: absolute;
+  height: 42.86%;
+  width: 50%;
+  top: 14.29%;
+  right: 25%;
+  bottom: 42.86%;
+  left: 25%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.tab-label10 {
+  position: absolute;
+  height: 21.43%;
+  top: 64.29%;
+  left: calc(50% - 24px);
+  letter-spacing: 0.02em;
+  line-height: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 48px;
+}
+.atombottomnavitem10 {
+  width: 48px;
+  position: relative;
+  height: 56px;
+}
+.icon-change-me12 {
+  position: absolute;
+  height: 42.86%;
+  width: 50%;
+  top: 14.29%;
+  right: 25%;
+  bottom: 42.86%;
+  left: 25%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  display: none;
+}
+.tab-label12 {
+  position: absolute;
+  height: 21.43%;
+  top: 60.71%;
+  left: calc(50% - 24px);
+  letter-spacing: 0.02em;
+  line-height: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 48px;
+}
+.atombottomnavitem-inner {
+  position: absolute;
+  height: 3.57%;
+  width: 100%;
+  top: 96.43%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-black1);
+}
+.atombottomnavitem12 {
+  width: 48px;
+  position: relative;
+  height: 56px;
+  color: var(--color-black1);
+}
+.bottomnav2,
+.content2 {
+  position: absolute;
+  background-color: var(--color-white1);
+  height: 72px;
+}
+.content2 {
+  top: 0;
+  left: 0;
+  width: 432px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: var(--padding-9xs) var(--padding-base) 0;
+  box-sizing: border-box;
+}
+.bottomnav2 {
+  top: calc(50% + 372px);
+  left: calc(50% - 215px);
+  width: 430px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--caption-c2-regular-size);
+  color: var(--color-default);
+}
+.homefeed-child {
+  position: absolute;
+  top: 157px;
+  left: 28px;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro);
+  width: 52px;
+  height: 52px;
+}
+.homefeed-child1,
+.homefeed-child2,
+.homefeed-child3,
+.homefeed-child4,
+.homefeed-child5,
+.homefeed-inner,
+.homefeed-item {
+  position: absolute;
+  top: 55px;
+  left: 29px;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro);
+  width: 52px;
+  height: 52px;
+}
+.homefeed-child1,
+.homefeed-child2,
+.homefeed-child3,
+.homefeed-child4,
+.homefeed-child5,
+.homefeed-inner {
+  left: 104px;
+}
+.homefeed-child1,
+.homefeed-child2,
+.homefeed-child3,
+.homefeed-child4,
+.homefeed-child5 {
+  left: 179px;
+}
+.homefeed-child2,
+.homefeed-child3,
+.homefeed-child4,
+.homefeed-child5 {
+  left: 254px;
+}
+.homefeed-child3,
+.homefeed-child4,
+.homefeed-child5 {
+  left: 329px;
+}
+.homefeed-child4,
+.homefeed-child5 {
+  left: 404px;
+}
+.homefeed-child5 {
+  top: 512px;
+  left: 28px;
+}
+.amelia,
+.div17,
+.div18,
+.div19,
+.name,
+.name1,
+.name2,
+.name3,
+.name4,
+.name5,
+.their-status,
+.their-status1,
+.you {
+  position: absolute;
+  top: 161px;
+  left: 84px;
+  letter-spacing: -0.02em;
+  display: flex;
+  align-items: flex-end;
+  width: 117px;
+  height: 22px;
+}
+.div17,
+.div18,
+.div19,
+.name,
+.name1,
+.name2,
+.name3,
+.name4,
+.name5,
+.their-status,
+.their-status1,
+.you {
+  top: 107px;
+  left: 39px;
+}
+.div17,
+.div18,
+.div19,
+.name,
+.name1,
+.name2,
+.name3,
+.name4,
+.name5,
+.their-status,
+.their-status1 {
+  left: 114px;
+}
+.div17,
+.div18,
+.div19,
+.name1,
+.name2,
+.name3,
+.name4,
+.name5,
+.their-status,
+.their-status1 {
+  left: 185px;
+}
+.div17,
+.div18,
+.div19,
+.name2,
+.name3,
+.name4,
+.name5,
+.their-status,
+.their-status1 {
+  left: 264px;
+}
+.div17,
+.div18,
+.div19,
+.name3,
+.name4,
+.name5,
+.their-status,
+.their-status1 {
+  left: 334px;
+}
+.div17,
+.div18,
+.div19,
+.name4,
+.name5,
+.their-status,
+.their-status1 {
+  left: 410px;
+}
+.div17,
+.div18,
+.div19,
+.name5,
+.their-status,
+.their-status1 {
+  top: 516px;
+  left: 84px;
+}
+.div17,
+.div18,
+.div19,
+.their-status,
+.their-status1 {
+  top: 179px;
+  font-size: var(--font-size-xs);
+  font-weight: 300;
+}
+.div17,
+.div18,
+.div19,
+.their-status1 {
+  top: 534px;
+}
+.div17,
+.div18,
+.div19 {
+  top: 455px;
+  left: 61px;
+}
+.div18,
+.div19 {
+  left: 259px;
+}
+.div19 {
+  left: 168px;
+}
+.homefeed-child6,
+.homefeed-child7,
+.homefeed-child8 {
+  position: absolute;
+  top: 460px;
+  left: 35px;
+  background-color: var(--color-gainsboro);
+  width: 20px;
+  height: 20px;
+}
+.homefeed-child7,
+.homefeed-child8 {
+  left: 130px;
+}
+.homefeed-child8 {
+  left: 227px;
+}
+.image-icon,
+.image-icon1 {
+  position: absolute;
+  top: 228px;
+  left: 61px;
+  width: 300px;
+  height: 200px;
+  overflow: hidden;
+}
+.image-icon1 {
+  top: 583px;
+}
+.iconfillaccount,
+.iconfillmail-open {
+  position: absolute;
+  top: 15px;
+  left: 397px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.iconfillaccount {
+  left: 17px;
+}
+.homefeed {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white1);
+  height: 888px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black1);
+  font-family: var(--caption-c2-regular);
+}

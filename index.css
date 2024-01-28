@@ -1,3 +1,42 @@
+.property-1default-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-20xl);
+  background-color: var(--color-darkkhaki);
+}
+.person-fill0-wght400-grad0-ops {
+  position: absolute;
+  height: 12.41%;
+  width: 7.62%;
+  top: 33.83%;
+  right: 86.14%;
+  bottom: 53.76%;
+  left: 6.24%;
+  overflow: hidden;
+}
+.component-43,
+.property-1default {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  width: 433px;
+  height: 266px;
+}
+.component-43 {
+  top: -91px;
+  left: -22px;
+  border-radius: var(--br-8xs);
+  border: 1px dashed var(--color-blueviolet);
+  box-sizing: border-box;
+  width: 473px;
+  height: 592px;
+  overflow: hidden;
+}
 .component-child,
 .component-item {
   position: absolute;
@@ -104,19 +143,6 @@
   left: 44px;
   width: 156px;
   height: 188px;
-  cursor: pointer;
-}
-.see-all {
-  position: absolute;
-  top: 46px;
-  left: 347px;
-  font-size: var(--bodytext-b2-regular-size);
-  text-decoration: underline;
-  letter-spacing: -0.02em;
-  display: flex;
-  align-items: flex-end;
-  width: 59px;
-  height: 17px;
 }
 .div,
 .div1,
@@ -158,7 +184,7 @@
   top: 144px;
   left: 327px;
   border-radius: 50%;
-  border: 1px solid var(--color-black);
+  border: 1px solid var(--color-black1);
   box-sizing: border-box;
   width: 8px;
   height: 8px;
@@ -174,7 +200,7 @@
 }
 .ellipse-div {
   left: 106px;
-  background-color: var(--color-black);
+  background-color: var(--color-black1);
 }
 .line-icon {
   position: absolute;
@@ -185,7 +211,7 @@
   object-fit: contain;
 }
 .div4,
-.div5 {
+.logoplaceholder1 {
   position: absolute;
   font-size: var(--font-size-7xl);
   font-family: var(--font-inter);
@@ -197,7 +223,7 @@
   width: 34px;
   height: 32px;
 }
-.div5 {
+.logoplaceholder1 {
   top: 99px;
   left: 82px;
 }
@@ -215,40 +241,37 @@
   object-fit: cover;
   display: none;
 }
-.component-401 {
+.component-401,
+.component-402,
+.component-41 {
   position: absolute;
   top: 213px;
   left: 229px;
   width: 156px;
   height: 188px;
-  cursor: pointer;
 }
 .component-402,
-.component-403,
-.component-41,
-.component-42 {
-  position: absolute;
+.component-41 {
   top: 427px;
   left: 44px;
-  width: 156px;
-  height: 188px;
-  cursor: pointer;
 }
-.component-403,
-.component-41,
-.component-42 {
+.component-41 {
   top: 642px;
 }
 .component-403,
-.component-42 {
+.component-42,
+.image-15-icon {
+  position: absolute;
   top: 428px;
   left: 229px;
+  width: 156px;
+  height: 188px;
 }
-.component-42 {
+.component-42,
+.image-15-icon {
   top: 643px;
 }
 .image-15-icon {
-  position: absolute;
   top: 232px;
   left: 248px;
   width: 119px;
@@ -278,125 +301,84 @@
   width: 121px;
   height: 121px;
 }
-.icon-change-me {
+.component-44variant2-child {
   position: absolute;
-  height: 42.86%;
-  width: 50%;
-  top: 14.29%;
-  right: 25%;
-  bottom: 42.86%;
-  left: 25%;
-  max-width: 100%;
-  overflow: hidden;
-  max-height: 100%;
-  display: none;
-}
-.tab-label {
-  position: absolute;
-  height: 21.43%;
-  top: 64.29%;
-  left: calc(50% - 24px);
-  letter-spacing: 0.02em;
-  line-height: 14px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  width: 48px;
-}
-.atombottomnavitem {
-  width: 48px;
-  position: relative;
-  height: 56px;
-  color: #1e1e1e;
-}
-.icon-change-me1 {
-  position: absolute;
-  height: 42.86%;
-  width: 50%;
-  top: 14.29%;
-  right: 25%;
-  bottom: 42.86%;
-  left: 25%;
-  max-width: 100%;
-  overflow: hidden;
-  max-height: 100%;
-}
-.atombottomnavitem1 {
-  width: 48px;
-  position: relative;
-  height: 56px;
-}
-.tab-label2 {
-  position: absolute;
-  height: 21.43%;
-  top: 60.71%;
-  left: calc(50% - 24px);
-  letter-spacing: 0.02em;
-  line-height: 14px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  width: 48px;
-}
-.atombottomnavitem-child {
-  position: absolute;
-  height: 3.57%;
+  height: 100%;
   width: 100%;
-  top: 96.43%;
+  top: 0;
   right: 0;
   bottom: 0;
   left: 0;
-  background-color: var(--color-black);
+  border-radius: var(--br-4xl);
+  background-color: var(--color-darkkhaki);
 }
-.atombottomnavitem2 {
-  width: 48px;
+.shopping-bag-fill0-wght400-gra-icon {
+  width: 37px;
   position: relative;
-  height: 56px;
-  color: var(--color-black);
+  height: 37px;
+  overflow: hidden;
+  flex-shrink: 0;
 }
-.content {
+.vector-icon1 {
+  width: 42px;
+  position: relative;
+  height: 21px;
+}
+.vector-icon2,
+.vector-icon3 {
+  width: 33px;
+  position: relative;
+  height: 29px;
+}
+.vector-icon3 {
+  width: 21.3px;
+  height: 26.7px;
+}
+.shopping-bag-fill0-wght400-gra-parent {
   position: absolute;
-  top: 0;
-  left: 0;
-  background-color: var(--color-white1);
-  width: 432px;
-  height: 72px;
+  height: 30.33%;
+  width: 75.17%;
+  top: 10.66%;
+  right: 14.15%;
+  bottom: 59.02%;
+  left: 10.67%;
   display: flex;
   flex-direction: row;
   align-items: center;
-  justify-content: space-between;
-  padding: var(--padding-9xs) var(--padding-base) 0;
-  box-sizing: border-box;
+  justify-content: flex-start;
+  gap: var(--gap-41xl);
 }
-.iconfillplus-circle {
+.component-44variant2 {
   position: absolute;
-  top: 18px;
-  left: 204px;
-  width: 24px;
-  height: 24px;
+  top: 859px;
+  left: -1px;
+  width: 431px;
+  height: 122px;
 }
-.bottomnav,
-.deal {
-  background-color: var(--color-white1);
-  overflow: hidden;
-}
-.bottomnav {
+.logoplaceholder {
   position: absolute;
-  top: calc(50% + 394px);
-  left: calc(50% - 215px);
-  box-shadow: 0 4px 20.6px 2px rgba(0, 0, 0, 0.25);
-  width: 430px;
-  height: 72px;
-  text-align: center;
-  font-size: var(--caption-c2-regular-size);
-  color: var(--color-default);
+  top: 24px;
+  left: 30px;
+  font-size: var(--font-size-7xl);
+  font-family: var(--font-inter);
+}
+.ellipse-icon {
+  position: absolute;
+  top: 24px;
+  left: 364px;
+  border-radius: 50%;
+  width: 36px;
+  height: 37px;
+  object-fit: cover;
 }
 .deal {
   width: 100%;
   position: relative;
+  background-color: var(--color-white1);
   height: 932px;
+  overflow: hidden;
   text-align: left;
   font-size: var(--font-size-2xs);
-  color: var(--color-black);
+  color: var(--color-black1);
   font-family: var(--caption-c2-regular);
 }
